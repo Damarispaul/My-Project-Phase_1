@@ -1,5 +1,9 @@
 
 # My-Project-Phase_1
+
+#### Tableau Public Link
+* Tableau link:https://public.tableau.com/app/profile/damaris.wanjiru/viz/AviationBook1/Dashboard1?publish=yes
+
 # Aviation Risk Assessment
 ## Project Overview
 This project provides a comprehensive risk assessment framework to analyze and evaluate risk factors associated with different aircraft models, weather conditions, and phases of flight. The primary objective is to identify aircraft with lower risk profiles, analyze incident trends over time, and assess how external factors like weather and aircraft specifications contribute to these incidents. The dataset includes details on aviation occurrences, such as fatalities, serious injuries, and aircraft characteristics
